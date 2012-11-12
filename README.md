@@ -1,9 +1,14 @@
-SO-Dark-Monokai
+SO-Dark-Monokai-v2
+
+A second version of the theme I tweaked introducing a bit more colour.
+
 https://github.com/simonowendesign/SO-Dark-Monokai
 Taken from the below and tweaked by Simon Owen (@simonowendesign)
 
 Preview:
-<img src="http://farm8.staticflickr.com/7246/8153558207_b148714738_b.jpg" />
+<img src="http://farm9.staticflickr.com/8198/8179021192_67994d5fea_b.jpg" />
+
+<a href="http://farm9.staticflickr.com/8198/8179021192_c24ea3c269_o.png">Full size preview</a>
 
 IR_Dark_Monokai
 Designed and developed by Andres Pagella (@mapagella)
