@@ -192,6 +192,18 @@
 	color: #a6e70a !important;
 }
 
+#-webkit-web-inspector .sidebar-tree,
+#-webkit-web-inspector .resources.panel .base-storage-tree-element-title,
+#-webkit-web-inspector .base-navigator-tree-element-title {
+	color: #999 !important;
+}
+
+#-webkit-web-inspector .selected .sidebar-tree,
+#-webkit-web-inspector .resources.panel .selected .base-storage-tree-element-title,
+#-webkit-web-inspector .selected .base-navigator-tree-element-title {
+	color: #fff !important;
+}
+
 /**********************************************/
 /* Console
 /**********************************************/
