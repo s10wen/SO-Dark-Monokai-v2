@@ -18,7 +18,8 @@
 /*
 /**********************************************/
 
-#-webkit-web-inspector {
+#-webkit-web-inspector,
+#-webkit-web-inspector .split-view-contents {
 	background-color: #242424;
 }
 
