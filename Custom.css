@@ -268,12 +268,14 @@
 }
 
 #-webkit-web-inspector #console-messages .console-group-messages .section .header::before,
-#-webkit-web-inspector #console-messages .properties-tree li.parent::before {
+#-webkit-web-inspector #console-messages .properties-tree li.parent::before,
+#-webkit-web-inspector .outline-disclosure li.parent::before {
 	content: url(chrome-devtools://devtools/Images/treeRightTriangleWhite.png) !important;
 }
 
 #-webkit-web-inspector #console-messages .console-group-messages .section.expanded .header::before,
-#-webkit-web-inspector #console-messages .properties-tree li.parent.expanded::before {
+#-webkit-web-inspector #console-messages .properties-tree li.parent.expanded::before,
+#-webkit-web-inspector .outline-disclosure li.parent.expanded::before {
 	content: url(chrome-devtools://devtools/Images/treeDownTriangleWhite.png) !important;
 }
 
