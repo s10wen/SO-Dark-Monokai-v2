@@ -10,6 +10,10 @@ Preview:
 
 <a href="http://farm9.staticflickr.com/8198/8179021192_c24ea3c269_o.png">Full size preview</a>
 
+<img src="http://farm9.staticflickr.com/8069/8201715505_977d44961f_b.jpg" />
+
+<a href="http://farm9.staticflickr.com/8069/8201715505_db13c79436_o.png">Full size preview</a>
+
 IR_Dark_Monokai
 Designed and developed by Andres Pagella (@mapagella)
 http://www.andrespagella.com/customising-chrome-devtools
