@@ -23,6 +23,10 @@
 	background-color: #242424;
 }
 
+#-webkit-web-inspector * {
+	border-color: #333 !important;
+}
+
 #-webkit-web-inspector #toolbar {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(#444), to(#222)) !important;
 	border-top: 1px solid #444 !important;
@@ -203,6 +207,34 @@
 #-webkit-web-inspector .resources.panel .selected .base-storage-tree-element-title,
 #-webkit-web-inspector .selected .base-navigator-tree-element-title {
 	color: #fff !important;
+}
+
+#-webkit-web-inspector .name-column {
+	color: #a6e70a !important;
+}
+
+#-webkit-web-inspector .method-column {
+	color: #72d9e7 !important;
+}
+
+#-webkit-web-inspector .type-column {
+	color: #a775ff !important;
+}
+
+#-webkit-web-inspector .network-log-grid.data-grid th,
+#-webkit-web-inspector .network-log-grid.data-grid th.sort-descending,
+#-webkit-web-inspector .network-log-grid.data-grid th.sort-ascending {
+	background: -webkit-gradient(linear, left top, left bottom, from(rgb(40, 40, 40)), to(rgb(0, 0, 0))) !important;
+	color: #ccc;
+}
+
+#-webkit-web-inspector .network-log-grid.data-grid td.method-column,
+#-webkit-web-inspector .network-log-grid.data-grid td.status-column,
+#-webkit-web-inspector .network-log-grid.data-grid td.type-column,
+#-webkit-web-inspector .network-log-grid.data-grid td.initiator-column,
+#-webkit-web-inspector .network-log-grid.data-grid td.size-column,
+#-webkit-web-inspector .network-log-grid.data-grid td.time-column {
+	color: #ccc;
 }
 
 /**********************************************/
